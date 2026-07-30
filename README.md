@@ -104,7 +104,6 @@
 - 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚 [Date picker](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 - 📚 [Appica UI](https://appica.dev/ui) - Open-source React component library built on Tailwind CSS, with a matching Figma library.
-- 📚🧩 [usva.](https://usva.build) - Design language and components library in three themes: atmospheric, dense, or light.
 - 📚 [usva](https://usva.build) - React component library and design language, with Tailwind CSS v4 tokens in three themes: atmospheric, dense, or light.
 - 📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
